@@ -44,8 +44,8 @@ export default StyleSheet.create({
     marginBottom: 5,
   },
   row: {
-    margin: 8,
-    padding: 10
+    margin: 5,
+    padding: 5
   },
   flex: {
     flexDirection: "row"
